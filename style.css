@@ -31,6 +31,10 @@ body {
   margin: 0;
   margin-left: 75px;
 }
+.links__title {
+  font-size: 14px;
+  font-size: 1.4;
+}
 
 .links {
   width: 320px;
